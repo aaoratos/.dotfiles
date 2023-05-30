@@ -27,9 +27,6 @@ set ruler
 set cmdheight=1
 set showmatch
 
-hi Normal guibg=NONE ctermbg=NONE
-hi NonText ctermbg=NONE
-
 set autoread
 au FocusGained,BufEnter * checktime
 

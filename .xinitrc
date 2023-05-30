@@ -33,7 +33,7 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 
 xrandr --output Virtual1 --mode 2560x1440 --rate 144.0 --primary &
-feh --bg-fill ~/.walls/desktop/wallhaven-gpqw87.png &
+feh --bg-fill ~/.walls/desktop/wallhaven-kx96r1.jpg &
 st &
 slstatus &
 xcompmgr -c &
